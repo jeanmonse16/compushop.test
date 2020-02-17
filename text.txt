@@ -1,0 +1,25 @@
+<div class="tabs_item">
+                  <div class="container  container-center">
+                    <div class="row">
+                      <div class="col-md-12 margin30"> <h2> WELCOME TO HOTEL SEVILLA</h2></div>
+                      <div class="col-md-12">
+                        <h4>Proposal for Mr.  Batanero </h4>
+                        <p class="lead">Volvo Car Launch</p>
+                        <p class="lead">November 25-26, 2022</p>
+                        <p class="welcome-p big">Located on the heart of Sevilla, opposite to Mª Luisa Park and Plaza España, and near to the University, Alcázar, Barrio de Santa Cruz, Cathedral and Archivo de Indias, the new Hotel Sevilla is the perfect option for leisure and business trips, thanks to its excellent location on the city center, its comfortable facilities and the quality of its
+                          services
+                          .</p>
+                          <p class="welcome-p big" >Completely renovated, the hotel has a SPA, a splendid outdoor pool with view to the Plaza España, a gym for our
+                            clients and a spectacular Convention Center. In addition, every room on the new Hotel Sevilla is comfortable, bright and outside.
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="container  container-center">
+                      <div class="row">
+                        <div class="col-md-12">
+                          <img class="img-responsive" src="/spazious/static/src/img/153699827.jpg" alt="meeting" />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
